@@ -1,0 +1,7 @@
+C:\Users\adamk\Desktop\C#\ATM-Console\ATM-Console\bin\Debug\ATM-Console.exe.config
+C:\Users\adamk\Desktop\C#\ATM-Console\ATM-Console\bin\Debug\ATM-Console.exe
+C:\Users\adamk\Desktop\C#\ATM-Console\ATM-Console\bin\Debug\ATM-Console.pdb
+C:\Users\adamk\Desktop\C#\ATM-Console\ATM-Console\obj\Debug\ATM-Console.csproj.AssemblyReference.cache
+C:\Users\adamk\Desktop\C#\ATM-Console\ATM-Console\obj\Debug\ATM-Console.csproj.CoreCompileInputs.cache
+C:\Users\adamk\Desktop\C#\ATM-Console\ATM-Console\obj\Debug\ATM-Console.exe
+C:\Users\adamk\Desktop\C#\ATM-Console\ATM-Console\obj\Debug\ATM-Console.pdb
